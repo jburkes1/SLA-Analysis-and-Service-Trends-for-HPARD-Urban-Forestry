@@ -23,5 +23,5 @@ An analysis of service request records from 2020 to 2025 to help support the imp
 **Analytical Techniques:** Exploratory Data Analysis (EDA)
 
 ## 📐 Data Structure & Workflow
-The dataset consists of `1` table containing `100` rows of transactional data representing all SKUs.
+The dataset consists of `18` tables containing `38,794` rows of municipal service request information.
 
