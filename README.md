@@ -13,10 +13,10 @@ An analysis of service request records from 2020 to 2025 to help support the imp
 
 📝 **SQL Queries:** https://github.com/jburkes1/SLA-Analysis-and-Service-Trends-for-HPARD-Urban-Forestry/tree/32438222564c78769c9a0c30458a11f955d0ec76/scripts
 
-📈 **Presentation Deck:** Insert
+📈 **Presentation Deck:** https://github.com/jburkes1/SLA-Analysis-and-Service-Trends-for-HPARD-Urban-Forestry/tree/95d0a574f369dba620515ba982646d3ff2473dc2/deliverables
 
 ## 🛠️ Skills & Tools Used
-**Data Extraction & Transformation:** Excel, SQL (PostgreSQL)
+**Data Extraction & Transformation:** Jupyter Notebook, Python, SQL (PostgreSQL), DBeaver
 
 **Data Visualization:** Tableau Public
 
