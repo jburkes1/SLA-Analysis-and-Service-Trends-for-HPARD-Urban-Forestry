@@ -1,0 +1,14 @@
+"status_reason_id","status_reason"
+1,Per Customer Request
+2,Entered in Error
+3,Administrative Closure - Expired
+4,Service Completed - Further Actions
+5,Not City Responsibility
+6,Invalid
+7,Duplicate
+8,No Violation Found
+9,Insufficient Information to Investigate
+10,Merged
+11,Routed
+12,Outside City Limits
+13,Service Completed

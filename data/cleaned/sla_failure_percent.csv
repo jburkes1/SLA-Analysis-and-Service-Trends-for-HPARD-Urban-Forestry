@@ -1,0 +1,31 @@
+"year","service_type","total_requests","sla_failures","sla_failure_percent"
+2020,Tree Code Violation,2,2,100.00
+2020,Tree Removal,755,378,50.07
+2020,Tree Planting,2,1,50.00
+2020,Tree Trim,1394,646,46.34
+2020,Tree Stump Grinding,20,6,30.00
+2021,Tree Planting,2,2,100.00
+2021,Tree Trim,1315,931,70.80
+2021,Tree Stump Grinding,33,20,60.61
+2021,Tree Removal,844,501,59.36
+2021,Tree Code Violation,3,1,33.33
+2022,Tree Planting,5,5,100.00
+2022,Tree Stump Grinding,25,22,88.00
+2022,Tree Trim,1148,908,79.09
+2022,Tree Removal,1052,695,66.06
+2022,Tree Code Violation,5,0,0.00
+2023,Tree Planting,5,5,100.00
+2023,Tree Removal,1664,912,54.81
+2023,Tree Trim,2029,930,45.84
+2023,Tree Code Violation,10,4,40.00
+2023,Tree Stump Grinding,55,17,30.91
+2024,Tree Planting,10,10,100.00
+2024,Tree Code Violation,16,10,62.50
+2024,Tree Removal,2765,1644,59.46
+2024,Tree Trim,2857,1676,58.66
+2024,Tree Stump Grinding,132,73,55.30
+2025,Tree Planting,6,4,66.67
+2025,Tree Removal,538,245,45.54
+2025,Tree Code Violation,7,3,42.86
+2025,Tree Stump Grinding,60,23,38.33
+2025,Tree Trim,751,161,21.44
