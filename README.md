@@ -11,6 +11,8 @@ An analysis of service request records from 2020 to 2025 to help support the imp
 ## 📊 Live Dashboard & Links
 🖥️ **Interactive Dashboard:** https://public.tableau.com/views/SLAAnalysisandServiceTrends/PerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![Project Screenshot](https://github.com/jburkes1/Supply-Chain-Analysis-for-Fashion-and-Beauty-Startup/blob/1e9bf20121c09150caf6333c7af4c26917c67804/images/Preview%20Photo%20-%20Supply%20Chain%20Analysis.png)
+
 📝 **SQL Queries:** https://github.com/jburkes1/SLA-Analysis-and-Service-Trends-for-HPARD-Urban-Forestry/tree/32438222564c78769c9a0c30458a11f955d0ec76/scripts
 
 📈 **Presentation Deck:** https://github.com/jburkes1/SLA-Analysis-and-Service-Trends-for-HPARD-Urban-Forestry/tree/95d0a574f369dba620515ba982646d3ff2473dc2/deliverables
