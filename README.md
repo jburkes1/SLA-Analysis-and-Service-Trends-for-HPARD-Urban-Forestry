@@ -1,5 +1,5 @@
 # SLA-Analysis-and-Service-Trends-for-HPARD-Urban-Forestry
-An analysis of service request records from 2020 to 2025 to help support the implementation of a tiered percentile based SLA for the Houston Parks & Recreation's Urban Forestry Division.
+Analyzed public service delivery datasets comprising nearly 39,000 records to establish tired P50-P90 target thresholds, reducing overall SLA breach rates from 56.9% down to 15%. Utilized Pandas “.loc” conditioning, string cleaning, and null value troubleshooting to build analytical pipelines.
 
 ## 📌 Executive Summary
 **The Problem:** The Mayor's office is aiming to improve service level agreement (SLA) success rates across all service types for each department. The Division Manager of Urban Forestry is tasked with reviewing the current SLAs for each public service the division provides and recommending practical key performance indicators (KPIs) to track compliance with current SLAs.
